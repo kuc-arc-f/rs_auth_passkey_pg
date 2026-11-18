@@ -66,3 +66,5 @@ cargo run
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/31c994860f1fa7
+
